@@ -1,20 +1,17 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  <h1 align="center"> A͛L͛O͛N͛E͛ M͛D͛ </h1>
-
-
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
- 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- <h1 align="center"> life is such a bullshit without a whatsapp bot </h1>
+      
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗔𝗠+VERY+ALONE+KINDLY+DEPLOY+ME😢)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
 <p align="center"> Introducing ALONE Md, A Simple WhatsApp user BOT, Created by topu Tech.
 </p>
 
-  <a href="https://ibb.co/N6NMDtn"><img src="https://files.catbox.moe/guk624.jpg" alt="01" border="0" /></a>                     
+  <a href="https://ibb.co/N6NMDtn"><img src="https://files.catbox.moe/v3vzdb.jpg" alt="01" border="0" /></a>                     
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>&</a>
  
 
@@ -71,7 +68,7 @@ Please Use Node Version Higher to Get The Best Performance.
 HOW TO REACH THE OWNER? 
  
    
-   <a href="https://wa.me+255673750170">
+   <a href="https://wa.me/c/+255673750170">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>&nbsp;&nbsp;
    <a
